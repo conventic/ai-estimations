@@ -1,0 +1,11 @@
+User Story,Description
+User Login,"As a user, I want to be able to log in so that I can access my account."
+Profile Update,"As a user, I want to update my profile so that I can change my personal information."
+Password Reset,"As a user, I want to reset my password in case I forget it."
+View Dashboard,"As a user, I want to view the dashboard so that I can see a summary of my activities."
+Upload Documents,"As a user, I want to upload documents so that I can share files with others."
+Download Reports,"As a user, I want to download reports so that I can have offline access to my data."
+Notifications,"As a user, I want to receive notifications so that I am informed of important events."
+Search Functionality,"As a user, I want to use search functionality so that I can easily find information."
+Log Out,"As a user, I want to be able to log out so that I can secure my account."
+Data Visualization,"As a user, I want to see data visualizations so that I can understand trends at a glance."
