@@ -6,3 +6,5 @@
 4. Generate separate API key for OpenAI: https://platform.openai.com/api-keys
 5. Run `make setup` to create valid `.env` file and to install dependencies
 6. Run `make run` to generate estimations in google sheet
+
+![Estimation Image](./estimation.webp)
